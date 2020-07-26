@@ -4,7 +4,7 @@ body {
     font-family: 'Poppins';
     font-size: 22px;
     transition: 0.5s;
-    background-color: white;
+    background-color: black;
 
 }
 
@@ -45,8 +45,8 @@ a:hover {
     padding-bottom: 10px;
     text-align: center;
     color: #fff;
-    border-left: 10px solid #fff;
-    border-right: 10px solid #fff;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
     transition: 0.5s;
 
 
