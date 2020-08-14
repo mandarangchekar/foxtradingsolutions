@@ -1,2 +1,3 @@
 # foxtradingsolutions
-A part of login page
+CLICK HERE TO VIEW THE PAGE
+https://modest-hoover-28498c.netlify.app/
